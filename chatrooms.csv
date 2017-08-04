@@ -2,6 +2,7 @@ active,nickname,cityid,cityname,template,sendtime
 1,"【内部】续费Fighting",226,苏州,"明天苏州天气 %(maininfo)s 温度 %(temperature)s,各位小仙女，大家晚安",20:30
 1,"qq",226,苏州,"明天天气 %(maininfo)s 温度 %(temperature)s,最近天气闷热,叔叔阿姨们注意防暑降温哦,大家晚安 ",20:30
 0,"高端客服🎀Happy群",321,上海,"明天天气 %(maininfo)s 温度 %(temperature)s,大家晚安",20:30
+1,"百旅会云南B01班🌙",373,昆明,"明天天气 %(maininfo)s 温度 %(temperature)s,叔叔阿姨们晚上好，最近天气闷热，叔叔阿姨们注意防暑降温哦，大家晚安",20:30
 0,"百旅会南京A09班",224,南京,"明天天气 %(maininfo)s 温度 %(temperature)s,叔叔阿姨们晚上好，最近天气闷热，叔叔阿姨们注意防暑降温哦，大家晚安",20:30
 1,"百旅会南京A20班",224,南京,"明天天气 %(maininfo)s 温度 %(temperature)s,叔叔阿姨们晚上好，最近天气闷热，叔叔阿姨们注意防暑降温哦，大家晚安",20:30
 1,"百旅会南京A21班",224,南京,"明天天气 %(maininfo)s 温度 %(temperature)s,叔叔阿姨们晚上好，最近天气闷热，叔叔阿姨们注意防暑降温哦，大家晚安",20:30
