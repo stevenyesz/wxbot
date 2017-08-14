@@ -1,4 +1,5 @@
 active,nickname,cityid,cityname,template,sendtime
+1,"百旅会 秦皇岛 A01班",145,秦皇岛,"明天天气 %(maininfo)s 温度 %(temperature)s,忙碌的生活需要温暖的港湾，专属客服提醒您关注天气变化。天热防中暑、天凉要添衣。健康快乐随行、祝您美好不停，晚安",20:30
 1,"【内部】续费Fighting",226,苏州,"明天苏州天气 %(maininfo)s 温度 %(temperature)s,各位小仙女，大家晚安",20:30
 1,"qq",226,苏州,"明天天气 %(maininfo)s 温度 %(temperature)s,最近天气闷热,叔叔阿姨们注意防暑降温哦,大家晚安 ",20:30
 0,"高端客服🎀Happy群",321,上海,"明天天气 %(maininfo)s 温度 %(temperature)s,大家晚安",20:30
